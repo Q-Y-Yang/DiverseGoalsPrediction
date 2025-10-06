@@ -1,7 +1,7 @@
 # Diverse Human Movement Goals Prediction
 This is the repository for the paper "**Scene-aware Prediction of Diverse Human Movement Goals:**" published on the 5th International Conference on Robotics, Computer Vision and Intelligent Systems (ROBOVIS 2025) .
 
-[Paper Link]()
+[Paper Link](https://link.springer.com/chapter/10.1007/978-3-032-00986-9_21)
 
 
 ## Main Dependencies
