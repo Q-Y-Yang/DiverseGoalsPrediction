@@ -78,6 +78,22 @@ Arguments:
 
 
 ## Citation
-If you use the code in this repository, please cite the following paper:
+If you use the code in this repository or derive ideas from this work, please cite the following paper:
 ```
+@InProceedings{MultiGoalsPredict,
+author="Yang, Qiaoyue
+and Weber, Amadeus
+and Jung, Magnus
+and AI-Hamadi, Ayoub
+and Wachsmuth, Sven",
+editor="R{\"o}ning, Juha
+and Filipe, Joaquim",
+title="Scene-Aware Prediction of Diverse Human Movement Goals",
+booktitle="Robotics, Computer Vision and Intelligent Systems",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="312--327",
+isbn="978-3-032-00986-9"
+}
 ```
